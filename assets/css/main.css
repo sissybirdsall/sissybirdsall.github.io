@@ -2503,6 +2503,8 @@
 			-webkit-flex-grow: 1;
 			-ms-flex-grow: 1;
 			flex-grow: 1;
+			height:100px;
+			overflow:scroll;
 		}
 
 			.mini-post header h3 {
